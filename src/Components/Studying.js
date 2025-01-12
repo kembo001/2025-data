@@ -8,7 +8,7 @@ const habitData = [
   ];
   
 
-  function HabitHeatmap() {
+  function Studying() {
     return (
       <div className='studying calendar-box'>
         <h2>Studying Activity</h2>
@@ -31,5 +31,5 @@ const habitData = [
     );
   }
   
-  export default HabitHeatmap;
+  export default Studying;
   

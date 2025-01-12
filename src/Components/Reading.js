@@ -6,9 +6,9 @@ import 'react-calendar-heatmap/dist/styles.css';
 const habitData = [
     { date: '2025-02-04', count: 1 },
   ];
-  
 
-  function HabitHeatmap() {
+
+  function Reading() {
     return (
       <div className='reading calendar-box'>
         <h2>Reading Activity</h2>
@@ -31,5 +31,5 @@ const habitData = [
     );
   }
   
-  export default HabitHeatmap;
+  export default Reading;
   

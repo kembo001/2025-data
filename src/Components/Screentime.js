@@ -8,7 +8,7 @@ const habitData = [
   ];
   
 
-  function HabitHeatmap() {
+  function ScreenTime() {
     return (
       <div className='screentime calendar-box'>
         <h2>Screen Time Activity</h2>
@@ -31,5 +31,5 @@ const habitData = [
     );
   }
   
-  export default HabitHeatmap;
+  export default ScreenTime;
   
